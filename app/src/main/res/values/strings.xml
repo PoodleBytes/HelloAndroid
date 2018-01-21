@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HelloAndroid</string>
+    <string name="name">Your mind on Udacity</string>
+    <string name="address">2465 Latham St\nMountain View, CA 94043</string>
+    <string name="phone">899-666-2122</string>
+    <string name="website">udacity.com</string>
+</resources>
+
